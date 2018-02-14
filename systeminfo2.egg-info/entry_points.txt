@@ -1,0 +1,3 @@
+[console_scripts]
+EclipseWorkspace2_systeminfo2 = systeminfo2.main:main
+
